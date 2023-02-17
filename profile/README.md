@@ -1,14 +1,18 @@
 # English Version
 ## Hi there 👋
+> Our role is to help get practitioners - software developers, dev ops, and security experts, excited about building on the Elastic Stack. We help make the technology adoption easier and provide feedback to engineering and product management from the community to influence the roadmap of our products. We are responsible for raising awareness about the Elastic Stack.
+Shay, CTO
+
+Our group aims to assist you with sample projects in various technologies, so that you can use them in your current or future projects, taking advantage of the different tools offered by Elastic Search. These projects are open source and are available under the MIT license.
+
+## Next Events
 
 
-**Here are some ideas to get you started:**
+## Examples Proyects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+1.  [How to add Elastic Search observability to your Next.js project](https://github.com/elastic-community/apm-elastic-next.js)
+1.  [The best way to generate observability and monitoring for our cloud applications](https://github.com/elastic-community/ATP-elastic-APM)
+1.    [Application Monitoring in Golang application with Elastic APM](https://github.com/elastic-community/Golang-application-with-Elastic-APM)
 
 
 
@@ -16,17 +20,20 @@
 
 ## Hola Bienvenido 👋
 
-Nuestro papel es ayudar a que los profesionales -desarrolladores de software, dev ops y expertos en seguridad- se entusiasmen por construir en la Elastic Stack. Ayudamos a que la adopción de la tecnología sea más fácil y brindamos comentarios a ingeniería y gestión de productos de la comunidad para influir en la hoja de ruta de nuestros productos. Somos responsables de crear conciencia sobre la Elastic Stack.
+> Nuestro papel es ayudar a que los profesionales -desarrolladores de software, dev ops y expertos en seguridad- se entusiasmen por construir en la Elastic Stack. Ayudamos a que la adopción de la tecnología sea más fácil y brindamos comentarios a ingeniería y gestión de productos de la comunidad para influir en la hoja de ruta de nuestros productos. Somos responsables de crear conciencia sobre la Elastic Stack.
 Shay, CTO
-
-> traducido con chat gpt
+Traducido con chat gpt
 
 Nuestro grupo tiene como objetivo ayudarte con proyectos de ejemplo en diversas tecnologías, para que puedas utilizarlos en tus proyectos actuales o futuros, aprovechando las distintas herramientas que nos ofrece Elastic Search. Estos proyectos son de código abierto y están disponibles bajo la licencia MIT.
 
-### Nuestros Proyectos
+## Próximos Eventos
 
-## Flutter Animation Series
 
-1.  [Flutter: Animation Series || Episode 1 || Basic Animation ](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/UJVO-H0wfVU)
+## Proyectos ejemplos
 
-1.  [Flutter Animation: Ep 2 || Animation Series || Easing ](https://github.com/iampawan/AnimationSeries)[![watch](image/youtube.png)](https://youtu.be/kNVkC99p3Ho)
+1.  [Como agregar observabilidad de elastic search a nuestro proyecto de next js](https://github.com/elastic-community/apm-elastic-next.js)
+1.  [La mejor forma de generar observabilidad y monitoreo a nuestras aplicaciones en la nube ](https://github.com/elastic-community/ATP-elastic-APM)
+1.    [Monitoreo de aplicaciones en una aplicación Golang con Elastic APM.](https://github.com/elastic-community/Golang-application-with-Elastic-APM)
+
+
+# Youtube Videos
