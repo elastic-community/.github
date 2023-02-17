@@ -37,3 +37,6 @@ Nuestro grupo tiene como objetivo ayudarte con proyectos de ejemplo en diversas 
 
 
 # Youtube Videos
+
+1.  [Búsqueda en taxonomías: modelar correctamente un dominio usando Elasticsearch](https://www.youtube.com/watch?v=QzG6LIZQI1s)
+1.  [La mejor forma de generar observabilidad y monitoreo a nuestras aplicaciones en la nube ](https://www.youtube.com/watch?v=e-JhnuYfoyw)
