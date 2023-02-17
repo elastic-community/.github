@@ -20,7 +20,7 @@ Our group aims to assist you with sample projects in various technologies, so th
 
 ## Hola Bienvenido 👋
 
-> Nuestro papel es ayudar a que los profesionales -desarrolladores de software, dev ops y expertos en seguridad- se entusiasmen por construir en la Elastic Stack. Ayudamos a que la adopción de la tecnología sea más fácil y brindamos comentarios a ingeniería y gestión de productos de la comunidad para influir en la hoja de ruta de nuestros productos. Somos responsables de crear conciencia sobre la Elastic Stack.
+> Nuestro papel es ayudar a que los profesionales desarrolladores de software, dev ops y expertos en seguridad con el fin que se  entusiasmen por construir usando Elastic Stack. Ayudamos a que la adopción de la tecnología sea más fácil y brindamos comentarios a ingeniería y gestión de productos de la comunidad para influir en la hoja de ruta de nuestros productos. Somos responsables de crear conciencia sobre la Elastic Stack.
 Shay, CTO
 Traducido con chat gpt
 
