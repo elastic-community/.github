@@ -13,6 +13,7 @@ Our group aims to assist you with sample projects in various technologies, so th
 1.  [How to add Elastic Search observability to your Next.js project](https://github.com/elastic-community/apm-elastic-next.js)
 1.  [The best way to generate observability and monitoring for our cloud applications](https://github.com/elastic-community/ATP-elastic-APM)
 1.    [Application Monitoring in Golang application with Elastic APM](https://github.com/elastic-community/Golang-application-with-Elastic-APM)
+1.  [Easy way to install elastic and kibana with terraform](https://github.com/elastic-community/Easy-way-to-install-elastic-kibana-with-terraform)
 
 
 
@@ -34,6 +35,7 @@ Nuestro grupo tiene como objetivo ayudarte con proyectos de ejemplo en diversas 
 1.  [Como agregar observabilidad de elastic search a nuestro proyecto de next js](https://github.com/elastic-community/apm-elastic-next.js)
 1.  [La mejor forma de generar observabilidad y monitoreo a nuestras aplicaciones en la nube ](https://github.com/elastic-community/ATP-elastic-APM)
 1.    [Monitoreo de aplicaciones en una aplicación Golang con Elastic APM.](https://github.com/elastic-community/Golang-application-with-Elastic-APM)
+1.  [La forma facil para instalar elastic y kibana con terraform](https://github.com/elastic-community/Easy-way-to-install-elastic-kibana-with-terraform)
 
 
 # Youtube Videos
